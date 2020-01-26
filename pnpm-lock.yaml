@@ -1,0 +1,5 @@
+dependencies:
+  graft: 'link:../graft'
+lockfileVersion: 5.1
+specifiers:
+  graft: 'link:../graft'
