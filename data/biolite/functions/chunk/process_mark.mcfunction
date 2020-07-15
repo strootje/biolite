@@ -2,4 +2,4 @@
 clone ~ 0 ~ ~15 4 ~15 ~ 1 ~ filtered #biolite:bedrocks move
 
 # fill bottom layer with barrier
-fill ~ 0 ~ ~15 0 ~15 minecraft:barrier
+fill ~ 0 ~ ~15 0 ~15 minecraft:structure_void

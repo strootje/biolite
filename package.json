@@ -2,7 +2,7 @@
 	"private": true,
 	"name": "biolite",
 	"version": "0.1.0",
-	"dependencies": {
-		"graft": "link:../graft"
+	"scripts": {
+		"link": "ln -s /home/bastiaan/Workspace/biolite /opt/games/minecraft/latest/saves/test/datapacks/biolite"
 	}
 }

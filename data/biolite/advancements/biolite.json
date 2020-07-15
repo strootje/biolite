@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Biolite",
+		"description": "Chunk post-processing",
+		"icon": {
+			"item": "minecraft:oak_sapling"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "global:walonia",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
